@@ -187,9 +187,7 @@ for($lo=0;$lo<strlen($hi);$lo++)
 if(ctype_alpha($hi[$lo])||ctype_space($hi[$lo]))
 $countss++;
 if($counts==strlen($ww) and $countss==strlen($hi) and strlen($ww)>=1 and strlen($hi)>=1)
-{$handle = fopen('king_vendrick_3.txt', 'a');
-fwrite($handle, $ww."\t".$hi."\n");
-fclose($handle);
+{
 echo $hi . $e . $ww;}} ?></p>
 </body>
 </html>
