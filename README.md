@@ -9,4 +9,4 @@ You enter your name and your crush's name and it tells you your relationship sta
  Sibling
  
 # Webpage
-This webpage is currently running [here](http://vinayak.16mb.com//flames.php)
+This webpage is currently running [here](http://vinayak.16mb.com/flames.php).
